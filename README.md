@@ -14,3 +14,8 @@ Simple python GUI interface containing the popular game of sukoku with an includ
 -more to cum ;)
 
 9x9 static board written in FLTK (python for now but C++ later) 
+
+Helpful Links:
+https://www.fltk.org/doc-1.3/index.html
+https://dmoj.ca/problem/miniaturesudoku (brute force)
+https://dmoj.ca/problem/sudoku (brute force)
